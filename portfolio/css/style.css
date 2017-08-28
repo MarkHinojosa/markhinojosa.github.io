@@ -2,11 +2,11 @@
 
 .height-30p {
   height: 300px;
-  
+
 }
 
 header {
-  background-image: url("../img/sunset.jpg");
+  background-image: url("../img/sunset-copy.jpg");
   background-size: cover;
   height: 100vh;
   display: flex;
