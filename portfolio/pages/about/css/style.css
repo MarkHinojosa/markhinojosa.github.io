@@ -1,0 +1,60 @@
+
+header {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.me {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-left: 15px;
+  float: left;
+}
+
+#myTopnav {
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+  font-size: 30px;
+}
+
+#profile-pic {
+  height: 30%;
+  width: 30%;
+  float: left;
+  padding-top:;
+  border-radius:50%;
+  border:;
+
+}
+
+body {
+  background-image: url("../../../img/sunset-copy.jpg");
+  background-size: cover;
+  background-color: black;
+}
+
+.links {
+  color: black;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.links:hover {
+  color: white;
+}
+
+
+
+section {
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  margin-right: 700px;
+  margin-top: 100px;
+  font-family: 'Lobster', cursive;
+  float: left;
+}
